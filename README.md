@@ -69,3 +69,23 @@ I looked at the distributions of the data and the value counts for the various c
 ![](https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download.png)
 ![](https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download%20(3).png)
 ![](https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download%20(2).png)
+---
+## Model Building
+
+### Facebook prophet
+Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
+
+##### Advantages:
+* Open Source
+* Accurate and fast
+* Allows for a large number of people to make forecasts, possibly without training in time series methods;
+* Tunable parameters
+* Available for both Python and R
+
+---
+## Model Prediction
+Facebook prophet model for store Id 10 to forecast its sales
+
+
+
+
