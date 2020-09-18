@@ -89,5 +89,6 @@ Facebook prophet model for store Id 10 to forecast its sales
 ![](https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download%20(4).png)
 ![](https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download%20(5).png)
 
-
-
+---
+## Conclusion
+This was an interesting study and it’ll be great to analyse the results when I get the actual views. Having said that, Prophet does make the entire forecasting process easy and intuitive and also gives a lot of options. The actual advantage of this model can only be assessed on large datasets but Prophet does enable forecasting a large number and a variety of time series problems — which is truly forecasting at scale.
