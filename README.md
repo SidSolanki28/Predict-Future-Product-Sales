@@ -69,6 +69,7 @@ I looked at the distributions of the data and the value counts for the various c
 ![](https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download.png)
 ![](https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download%20(3).png)
 ![](https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download%20(2).png)
+
 ---
 ## Model Building
 
@@ -86,6 +87,7 @@ Prophet is a procedure for forecasting time series data based on an additive mod
 ## Model Prediction
 Facebook prophet model for store Id 10 to forecast its sales
 ![](https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download%20(4).png)
+![](https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download%20(5).png)
 
 
 
