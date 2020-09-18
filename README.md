@@ -67,3 +67,5 @@ I made the following changes and created the following variables:
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights :
 
 ![alt text](https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download.png)
+![alt text](https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download (1).png)
+![alt text](https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download (2).png)
