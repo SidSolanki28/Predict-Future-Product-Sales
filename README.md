@@ -61,7 +61,7 @@ I made the following changes and created the following variables:
 * Set NULL values for “CompetitionOpenSinceMonth”, “CompetitionOpenSinceYear”, “Promo2SinceWeek”, “Promo2SinceYear” and “PromoInterval”
 * Remove Data for stores which are close i.e “Open” = 0
 
---
+---
 ## EDA
 
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights :
@@ -85,7 +85,7 @@ Prophet is a procedure for forecasting time series data based on an additive mod
 ---
 ## Model Prediction
 Facebook prophet model for store Id 10 to forecast its sales
-
+![](https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download%20(4).png)
 
 
 
