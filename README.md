@@ -89,9 +89,9 @@ Prophet is a procedure for forecasting time series data based on an additive mod
 ## Model Prediction
 Facebook prophet model for store Id 10 to forecast its sales
 
-<img src="https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download%20(4).png">
+<img src="https://github.com/SidSolanki28/Predict-Future-Product-Sales/raw/master/images/download%20(4).png">
 
-<img src="https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download%20(5).png">
+<img src="https://github.com/SidSolanki28/Predict-Future-Product-Sales/raw/master/images/download%20(5).png">
 
 ---
 ## Conclusion
