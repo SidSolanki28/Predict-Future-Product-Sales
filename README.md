@@ -66,11 +66,11 @@ I made the following changes and created the following variables:
 
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights :
 
-<img src="https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download.png">
+<img src="https://github.com/SidSolanki28/Predict-Future-Product-Sales/raw/master/images/download.png">
 
-<img src="https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download%20(3).png">
+<img src="https://github.com/SidSolanki28/Predict-Future-Product-Sales/raw/master/images/download%20(3).png">
 
-<img src="https://github.com/SidSolanki28/Predict-Future-Product-Sales/blob/master/images/download%20(2).png">
+<img src="https://github.com/SidSolanki28/Predict-Future-Product-Sales/raw/master/images/download%20(2).png">
 
 ---
 ## Model Building
